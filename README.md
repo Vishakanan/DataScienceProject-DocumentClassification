@@ -25,6 +25,8 @@ This repository shares my project comparing **flat** and **hierarchical** approa
 
 ---
 
+Dataset Link : https://www.kaggle.com/datasets/crawford/20-newsgroups
+
 ---
 
 ##  How to Use
